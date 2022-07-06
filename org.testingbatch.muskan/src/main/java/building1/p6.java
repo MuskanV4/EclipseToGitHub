@@ -58,7 +58,7 @@ public class p6
 			//Open IE browser using "IEdriverserver" software
 			driver=new InternetExplorerDriver();//define object to child class
 		}
-		//Common code
+		//Common code BY MUSKAN
 		driver.get("http://www.gmail.com"); //give base URL to launch site
 	}
 }
